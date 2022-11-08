@@ -1,6 +1,6 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# US COVID-19 Drug Therapy Risk Prediction
+# US COVID-19 Drug Therapy Risk Prediction Accelerator
 
 ![](Resource_Deployment/img/banner.png)
 The US COVID-19 Drug Therapy Risk Prediction Accelerator is an end-to-end analytics platform that predicts the likelihood of a patient to experience a fatal adverse event (death) after receiving drug therapy for COVID-19. The accelerator incorporates real-world data from the [State Drug Utilization Database](https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data/index.html) (SDUD) and the [FDA Adverse Events Database](https://www.fda.gov/drugs/drug-approvals-and-databases/fda-adverse-event-reporting-system-faers) (FAERS).   
