@@ -33,7 +33,7 @@ A working knowledge of Azure, Azure Data Factory, Azure Databricks, Azure Synaps
 3. [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 4. [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 5. [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/)
-5. [Power BI](https://azure.microsoft.com/en-us/services/kubernetes-service/)
+5. [Power BI](https://powerbi.microsoft.com/en-us/)
 
 
 ## Getting Started
